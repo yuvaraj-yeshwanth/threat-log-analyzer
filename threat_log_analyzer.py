@@ -37,4 +37,4 @@ if __name__ == "__main__":
             json.dump(threats_found, json_file, indent=4)
         print("\n✅ Threats saved to 'threats_found.json'")
     else:
-        print("✅ No threats detected.")
+        print("✅ No threats detected.") 
