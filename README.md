@@ -1,6 +1,5 @@
 # Threat Log Analyzer
 
-## 🔥 Introduction
 Hey there! I'm **Yuvaraj**, and I created this **Threat Log Analyzer** to help analyze log files for security threats. If you're into **cybersecurity**, especially SOC analysis, this tool will help you detect failed login attempts, unauthorized access, and errors in system logs. 
 
 This is a beginner-friendly project, and I made it easy for anyone to set up and use. If you're new to log analysis, this will be a great starting point!
