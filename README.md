@@ -117,5 +117,5 @@ if __name__ == "__main__":
 ## 👨‍💻 Author
 **Yuvaraj** - Cybersecurity Enthusiast & Threat Analyst
 
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/yuvaraj-yeshwanth)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yuvaraj-m-b718151b9/)
+🔗 **GitHub:** [My GitHub Profile](https://github.com/yuvaraj-yeshwanth)  
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/yuvaraj-m-b718151b9/)
