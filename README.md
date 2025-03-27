@@ -82,25 +82,6 @@ if __name__ == "__main__":
     for threat in threats_found:
         print(threat)
 ```
-### 🔹 How It Works
-- **Reads log files** line by line.
-- **Searches for security-related keywords** (`failed`, `unauthorized`, `error`).
-- **Filters out threats** and displays them.
-
----
-
-## 📤 Uploading to GitHub
-1. **Create a GitHub repository** (e.g., `Threat-Log-Analyzer`).
-2. Click **"Add file" → "Upload files"**.
-3. **Upload** the following files:
-   ✅ `threat_log_analyzer.py`
-   ✅ `security_logs.txt`
-   ✅ `README.md`
-4. Click **"Commit changes"**. 🎉
-
----
-
-## 🎯 Why This Project is Useful
 ✅ **Real-world SOC use case** (log analysis for threats).  
 ✅ **Hands-on security experience** (regex & log parsing).  
 ✅ **Easy to expand** (can be integrated with SIEM tools).  
