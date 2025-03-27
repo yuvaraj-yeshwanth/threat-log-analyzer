@@ -34,7 +34,7 @@ sudo apt update && sudo apt install python3
 
 ### 3️⃣ Run the Threat Analyzer
 ```sh
-python3 threat_analyzer.py sample_logs.txt
+python3 threat_log_analyzer.py sample_logs.txt
 ```
 
 ## 📝 How It Works
